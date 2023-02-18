@@ -14,6 +14,6 @@ Since I started my homework a bit late, I couldn't do some extra stuff in here.
 
 I hope these coming weeks I'll be more engaged and do more about the homework.
 
-Otherwise, I attended *Azure* trainings from Andrew and passed 4 base level exams *(Az-900, DP-900. AI-900, SC-900)*
+Otherwise, I attended *Azure* trainings from Andrew and passed 4 base level exams *(AZ-900, DP-900. AI-900, SC-900)*
 
 I hope to take some certs on AWS too, and this Bootcamp is super important for me.
