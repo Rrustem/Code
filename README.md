@@ -1,5 +1,5 @@
 # Week 0 — Billing and Architecture
-This week (week 0) we were given a task to make an architecture diagram for a social application called Crudder. 
+This week (week 0) we were given a task to make an architecture diagram for a social application called Cruddur. 
 For the diagram we were instructed to use Lucid App - first time I heard about it - to make a Lucid Chart. 
 Anyway, I made a really good Chart following the Instructor Andrew Brown. 
 
